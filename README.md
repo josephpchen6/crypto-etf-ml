@@ -1,6 +1,4 @@
-# group_10_project
-
-## Team
+NOTE: This project is copied from [this GitLab repository](https://gitlab.engr.illinois.edu/ie421_high_frequency_trading_spring_2024/iex-downloader-parser)
 
 ## Overview
 
@@ -37,9 +35,3 @@ Joseph Chen: Computer Science (Spring 2025), josephpchen6@gmail.com, [LinkedIn](
 Connor Flynn: UIUC Computer Science & Linguistics (Spring 2025), cjflynn2@illinois.edu, [LinkedIn](https://www.linkedin.com/in/connor-flynn-253960228/) 
 
 Krish Nangia: UIUC Computer Engineering (December 2025), knang2@illinois.edu, [Linkedin](https://www.linkedin.com/in/krish-nangia-uiuc)
-
-My technical toolkit includes proficiency in programming languages such as Java, Python, C, C++, and more. I have explored the world of machine learning with frameworks like TensorFlow, PyTorch, and Scikit-Learn, and also have harnessed the power of data science libraries like Pandas, Matplotlib, and Numpy. Additionally, I have knowledge in SQL and web frameworks like Flask. 
-
-​I am very passionate about leveraging technology for the betterment of today's society. I hope to explore different aspects of software development and data science/analytics to ultimately use the skills gained to help further advance technology in other fields.
-
-Ray Ko:
